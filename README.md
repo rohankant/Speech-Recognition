@@ -4,7 +4,7 @@ Speech recognition
 Open this project in Pycharm.<br>
 Install Dependencies:-<br>
 ```
-pip install SpeechRecognition<br>
-pip install pyttsx3<br>
+pip install SpeechRecognition
+pip install pyttsx3
 ```
 Now run the code.
